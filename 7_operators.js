@@ -37,19 +37,19 @@
  * 연산자의 위치
  */
 
-// let result = 1;
-// console.log(result);
-// let number = 1;
+let result = 1;
+console.log(result);
+let number = 1;
 
-// result = number++;
-// console.log(result, number);
-// result = number--;
-// console.log(result, number);
+result = number++;
+console.log(result, number);
+result = number--;
+console.log(result, number);
 
-// result = ++number;
-// console.log(result, number);
-// result = --number;
-// console.log(result, number);
+result = ++number;
+console.log(result, number);
+result = --number;
+console.log(result, number);
 
 /** '변수++' 연산자는 변수 계산이 마친 후에 계산을 진행한다.
  *  '++변수' 연산자는 계산을 먼저 진행한 후, 변수를 반환한다.
