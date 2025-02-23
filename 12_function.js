@@ -25,7 +25,7 @@ calculate(4);
 // 2반환
 
 // argument 인자, 인수 (실제 매개변수)
-// 함수에서 입력받는 값에 대한 정의-> argument
+// 함수를 호출할 때 전달하는 값에 대한 정의-> argument
 
 // 다양한 인수 예시
 function multiply(x, y) {
